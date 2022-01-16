@@ -1,7 +1,7 @@
 # ExtractingBuildingByMMSeg
 This repository is for Competition for ML_data class. Based on mmsegmentatoin,mainly using swin transformer to completed the competition.
 
-Two ways of training are provided here, non-distributed and distributed training. If you want to use non-distributed training, you can directly check the code in [test.py](/mine/test.py) to train and predict.
+Two ways of training are provided here, non-distributed and distributed training. If you want to use non-distributed training, you can directly check the code in [train.py](/mine/train.py) to train.
 
 If you want to use distributed training on a linux server, you can do the following：
 First make dist_train.sh available under linux
