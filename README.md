@@ -40,3 +40,5 @@ class myDataset(CustomDataset):
 ```
 
 After getting the pth prediction, you can use the [predict.py](/mine/predict.py) to code the prediction and output the result.
+
+Leave a message if you have any questions!
